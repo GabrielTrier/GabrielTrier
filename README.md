@@ -1,53 +1,54 @@
-## Hi there 👋
-
-<!--
-**GabrielTrier/GabrielTrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there! Welcome to my repository! 👋
+# Hi there! Welcome to my GitHub profile! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielTrier&show_icons=true&theme=radical" alt="Gabriel's GitHub stats" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTrier&layout=compact&theme=radical" alt="Top Langs" width="42%">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=GabrielTrier&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Gabriel Trier's GitHub Stats" width="45%">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTrier&layout=compact&theme=radical&langs_count=10" alt="Most Used Languages" width="45%">
 </div>
 
 ---
 
-## Regarding my background:
+## 👀 About Me:
 
-- 🌟 I have been working with Data Science / Machine Learning since [year].
-- 🌎 I've worked in projects like [example project or company].
-- 🎓 I studied at [university and program].
-- 📚 I'm currently studying [subject/program] at CentraleSupélec, France.
-- 🛠️ Check out my [portfolio](#).
+### 🎓 Academic Background:
+
+- **ECE Paris (Double Degree)**:
+  - **Specialization**: Data Science and Big Data Analytics
+  - Focus on machine learning, data engineering, and advanced analytics.
+
+- **CentraleSupélec**:
+  - **Master**: Artificial Intelligence
+  - Focus on applied mathematics, deep learning, and industrial applications of AI.
+
+### 🌟 Interests:
+- AI, Data Science, and Applied Mathematics
+- Challenges of AI in industrial and energy fields
 
 ---
 
 ## 🛠️ Language and Tools:
+
 <p>
   <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/NumPy-orange?style=flat&logo=numpy" alt="NumPy">
   <img src="https://img.shields.io/badge/Pandas-purple?style=flat&logo=pandas" alt="Pandas">
   <img src="https://img.shields.io/badge/PyTorch-red?style=flat&logo=pytorch" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Jupyter-orange?style=flat&logo=jupyter" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Git-yellow?style=flat&logo=git" alt="Git">
+  <img src="https://img.shields.io/badge/scikit--learn-yellow?style=flat&logo=scikit-learn" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Streamlit-pink?style=flat&logo=streamlit" alt="Streamlit">
+  <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql" alt="MySQL">
   <img src="https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown" alt="Markdown">
-  <img src="https://img.shields.io/badge/Colab-green?style=flat&logo=googlecolab" alt="Colab">
+  <img src="https://img.shields.io/badge/Overleaf-green?style=flat&logo=overleaf" alt="Overleaf">
+  <img src="https://img.shields.io/badge/Power%20BI-orange?style=flat&logo=power-bi" alt="Power BI">
+  <img src="https://img.shields.io/badge/Colab-yellow?style=flat&logo=google-colab" alt="Google Colab">
+  <img src="https://img.shields.io/badge/AWS-orange?style=flat&logo=amazon-aws" alt="AWS">
+  <img src="https://img.shields.io/badge/C-blue?style=flat&logo=c" alt="C">
+  <img src="https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus" alt="C++">
+  <img src="https://img.shields.io/badge/Java-red?style=flat&logo=java" alt="Java">
+  <img src="https://img.shields.io/badge/React-blue?style=flat&logo=react" alt="React">
+  <img src="https://img.shields.io/badge/React%20Native-purple?style=flat&logo=react" alt="React Native">
 </p>
 
 ---
 
-## 🌍 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=flat)](#)
+## 🌐 Connect with Me:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ton-profil-linkedin)
