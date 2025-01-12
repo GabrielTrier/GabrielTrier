@@ -1,31 +1,42 @@
 # Hi there! Welcome to my GitHub profile! 👋
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=GabrielTrier&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Gabriel Trier's GitHub Stats" width="45%">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTrier&layout=compact&theme=radical&langs_count=10" alt="Most Used Languages" width="45%">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=GabrielTrier&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Gabriel Trier's GitHub Stats" width="100%">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTrier&layout=compact&theme=radical&langs_count=8" alt="Most Used Languages" width="100%">
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+## 🎯 About Me
 
-## 👀 About Me:
+- 💻 **I have been working with Data Science / Machine Learning since 2022.**  
+- 🏢 **Work Experience**:  
+  - Developed AI models (e.g., Decision Trees) to optimize waste collection at **SUEZ**.
+  - Final year project in **AI and financial ESG research** using LLMs and RAGs for **Artefact** and **MICS**.
+  - Implemented a web platform for race simulations at **ARECE (Autonomous Racing ECE)**.  
+  - Contributed to carbon footprint assessments at **Short Edition** and optimized data processes for **Payment Center For Africa (PCA)**.  
 
-### 🎓 Academic Background:
+- 📘 **Education**:  
+  - **CentraleSupélec**: Master’s in Artificial Intelligence focusing on Machine Learning, Deep Learning, and Multi-Agent Systems.  
+  - **ECE Paris**: Master’s in Big Data & Analytics, with expertise in DevOps, Mathematics, and Information Security.  
+  - **McGill University**: Exchange in Computer Science, focusing on Web Development and Programming Techniques.
 
-- **ECE Paris (Double Degree)**:
-  - **Specialization**: Data Science and Big Data Analytics
-  - Focus on machine learning, data engineering, and advanced analytics.
+- 🌟 **Some Projects**:  
+  - Object detection using YOLO. 
+  - Welding quality prediction.  
+  - Development of a social network with messaging, publishing, and group management.  
+  - Creation of a Cluedo game and aerial simulator in C++.  
+  - Design of a platform for visualizing exoplanets using APIs.
 
-- **CentraleSupélec**:
-  - **Master**: Artificial Intelligence
-  - Focus on applied mathematics, deep learning, and industrial applications of AI.
+- 🌱 **Interests**: AI, Data Science, ML, Reinforcement Learning, Computer Vision.  
 
-### 🌟 Interests:
-- AI, Data Science, and Applied Mathematics
-- Challenges of AI in industrial and energy fields
-
----
-
-## 🛠️ Language and Tools:
+## 🛠️ Languages and Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python" alt="Python">
@@ -33,6 +44,9 @@
   <img src="https://img.shields.io/badge/Pandas-purple?style=flat&logo=pandas" alt="Pandas">
   <img src="https://img.shields.io/badge/PyTorch-red?style=flat&logo=pytorch" alt="PyTorch">
   <img src="https://img.shields.io/badge/scikit--learn-yellow?style=flat&logo=scikit-learn" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Keras-red?style=flat&logo=keras" alt="Keras">
+  <img src="https://img.shields.io/badge/MLFlow-green?style=flat&logo=mlflow" alt="MLFlow">
+  <img src="https://img.shields.io/badge/SQL-lightblue?style=flat&logo=sqlite" alt="SQL">
   <img src="https://img.shields.io/badge/Streamlit-pink?style=flat&logo=streamlit" alt="Streamlit">
   <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql" alt="MySQL">
   <img src="https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown" alt="Markdown">
@@ -47,8 +61,6 @@
   <img src="https://img.shields.io/badge/React%20Native-purple?style=flat&logo=react" alt="React Native">
 </p>
 
----
-
-## 🌐 Connect with Me:
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ton-profil-linkedin)
