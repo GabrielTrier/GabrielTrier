@@ -1,18 +1,5 @@
 # Hi there! Welcome to my GitHub profile! 👋
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=GabrielTrier&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Gabriel Trier's GitHub Stats" width="100%">
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTrier&layout=compact&theme=radical&langs_count=8" alt="Most Used Languages" width="100%">
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 🎯 About Me
 
 - 💻 **I have been working with Data Science / Machine Learning since 2022.**  
