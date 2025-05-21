@@ -4,6 +4,7 @@
 
 - 💻 **I have been working with Data Science / Machine Learning since 2022.**  
 - 🏢 **Work Experience**:  
+  - Data scientist to develop a copilot agent (using logs,traces,git commits) to help +500 developers using supervised and unsupervised NLP approches  at **Dassault Systèmes**
   - Developed AI models (e.g., Decision Trees) to optimize waste collection at **SUEZ**.
   - Final year project in **AI and financial ESG research** using LLMs and RAGs for **Artefact** and **MICS**.
   - Implemented a web platform for race simulations at **ARECE (Autonomous Racing ECE)**.  
@@ -16,7 +17,8 @@
 
 - 🌟 **Some Projects**:  
   - Object detection using YOLO. 
-  - Welding quality prediction.  
+  - Welding quality prediction.
+  - ML and DL projects (RL, Computer vision video magnificiation,etc,etc).
   - Development of a social network with messaging, publishing, and group management.  
   - Creation of a Cluedo game and aerial simulator in C++.  
   - Design of a platform for visualizing exoplanets using APIs.
